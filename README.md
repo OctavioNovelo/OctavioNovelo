@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:00b3ff&height=260&section=header&text=OCTAVIO%20NOVELO&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Ciberseguridad%20%E2%80%A2%20Hardware%20%E2%80%A2%&descAlignY=62&descSize=18&stroke=00ff9c&strokeWidth=1" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:00b3ff&height=260&section=header&text=OCTAVIO%20NOVELO&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Ciberseguridad%20%E2%80%A2%20Hardware%20%E2%80%A2%Software&descAlignY=62&descSize=18&stroke=00ff9c&strokeWidth=1" width="100%" alt="header" />
 
 <a href="https://github.com/OctavioNovelo">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00FF9C&center=true&vCenter=true&width=760&height=50&lines=%3E+whoami+%E2%86%92+Octavio+Novelo;%3E+Rompo+cosas+para+aprender+a+protegerlas+%F0%9F%94%90;%3E+Automatizo+el+reconocimiento+y+la+auditor%C3%ADa;%3E+Programo+hardware+que+vuela+%F0%9F%9B%B0%EF%B8%8F;%3E+Construyendo+HERA+%7C+CanSat+2027+%7C+Robert+2027" alt="Typing SVG" />
@@ -14,25 +14,24 @@
 ![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=for-the-badge&logo=arduino&logoColor=00ff9c)
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00ff9c)
 
-<img src="https://komarev.com/ghpvc/?username=OctavioNovelo&label=Visitas&color=00ff9c&style=for-the-badge&labelColor=0d1117" alt="visitas" />
 
 </div>
 
 ---
 
-## 🖥️ `~/octavio` — sobre mí
+## 🖥️ `~/OctavioNovelo` — Sobre mí
 
 ```bash
-octavio@kali:~$ cat perfil.txt
+octavio@192.168.4.1:~$ cat perfil.txt
 
   Nombre     : Octavio Novelo
-  Enfoque    : Ciberseguridad (reconocimiento y auditoría)
+  Enfoque    : Ciberseguridad
   También    : Electrónica, sistemas embebidos y desarrollo
   Aprendiendo: JavaScript + seguridad ofensiva
   Misión     : Automatizar lo repetitivo y entender lo complejo
-  Estado     : Construyendo HERA · CanSat 2027 · Robert 2027
+  Estado     : Construyendo HERA · CanSat 2027 · Robert 2027 · Robot Raton
 
-octavio@kali:~$ _
+octavio@192.168.4.1:~$ _
 ```
 
 ---
@@ -65,9 +64,8 @@ octavio@kali:~$ _
     </td>
     <td width="50%" valign="top">
       <h3>🖱️ UMouse</h3>
-      <b>Proyecto personal</b><br/><br/>
-      En desarrollo, y me vendría bien una mano.<br/><br/>
-      <img src="https://img.shields.io/badge/Busco-Ayuda-ff4d6d?style=for-the-badge&labelColor=0d1117" alt="ayuda"/>
+      <b>Robot Raton</b><br/><br/>
+      En desarrollo.<br/><br/>
     </td>
   </tr>
 </table>
@@ -103,15 +101,11 @@ octavio@kali:~$ _
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OctavioNovelo&bg_color=0d1117&color=00ff9c&line=00b3ff&point=ffffff&area=true&area_color=00ff9c&hide_border=true&title_color=00ff9c" alt="activity graph" width="95%" />
-
 </div>
 
 ---
 
-## 🤝 Hablemos
-
-Si lo tuyo es **ciberseguridad, electrónica o CanSat/Robert 2027**, hablemos. Pregúntame sobre **ciberseguridad**.
+## 🤝 Contacto
 
 <div align="center">
 
