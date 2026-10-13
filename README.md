@@ -1,66 +1,127 @@
-<h1 align="center">Hola, soy Octavio Novelo 👋</h1>
-<h3 align="center">Apasionado por la ciberseguridad, la electrónica y el desarrollo de herramientas</h3>
+<div align="center">
 
-<p align="center">
-  Construyo herramientas de reconocimiento y auditoría, programo hardware para proyectos aeroespaciales y me gusta aprender haciendo.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:00b3ff&height=260&section=header&text=OCTAVIO%20NOVELO&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Ciberseguridad%20%E2%80%A2%20Hardware%20%E2%80%A2%20Herramientas%20ofensivas&descAlignY=62&descSize=18&stroke=00ff9c&strokeWidth=1" width="100%" alt="header" />
 
----
+<a href="https://github.com/OctavioNovelo">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00FF9C&center=true&vCenter=true&width=760&height=50&lines=%3E+whoami+%E2%86%92+Octavio+Novelo;%3E+Rompo+cosas+para+aprender+a+protegerlas+%F0%9F%94%90;%3E+Automatizo+el+reconocimiento+y+la+auditor%C3%ADa;%3E+Programo+hardware+que+vuela+%F0%9F%9B%B0%EF%B8%8F;%3E+Construyendo+HERA+%7C+CanSat+2027+%7C+Robert+2027" alt="Typing SVG" />
+</a>
 
-## 🚀 Lo que estoy haciendo
+<br/>
 
-- 🔭 Trabajando en **[HERA](https://github.com/OctavioNovelo/Herramientas-Ejecutables-de-Reconocimineto-y-Auditoria)** — Herramientas Ejecutables de Reconocimiento y Auditoría.
-- 🛰️ Preparándome para **CanSat 2027**.
-- 🤖 Desarrollando para **Robert 2027**.
-- 🖱️ Buscando ayuda con **UMouse**.
-- 🌱 Aprendiendo **JavaScript** y profundizando en ciberseguridad ofensiva y defensiva.
+![Ciberseguridad](https://img.shields.io/badge/Ciberseguridad-00ff9c?style=for-the-badge&logo=hackthebox&logoColor=0d1117)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff9c)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00b3ff)
+![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=for-the-badge&logo=arduino&logoColor=00ff9c)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00ff9c)
 
-## 🤝 Colaboración
+<img src="https://komarev.com/ghpvc/?username=OctavioNovelo&label=Visitas&color=00ff9c&style=for-the-badge&labelColor=0d1117" alt="visitas" />
 
-Busco colaborar en **CanSat 2027** y **Robert 2027**. Si te interesa la electrónica, la programación de sistemas embebidos o la seguridad informática, escríbeme.
-
-## 💬 Pregúntame sobre
-
-**Ciberseguridad**: reconocimiento, auditoría y automatización de herramientas.
-
-## 📫 Contacto
-
-- 📧 [octavionovelo22@proton.me](mailto:octavionovelo22@proton.me)
-- 📂 Todos mis proyectos: [github.com/OctavioNovelo?tab=repositories](https://github.com/OctavioNovelo?tab=repositories)
-
-<!-- Si quieres agregar redes (X, LinkedIn, etc.), añade aquí tus enlaces reales:
-- 🐦 [X](https://x.com/TU_USUARIO)
--->
+</div>
 
 ---
 
-## 🛠️ Lenguajes y herramientas
+## 🖥️ `~/octavio` — sobre mí
 
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
-</p>
+```bash
+octavio@kali:~$ cat perfil.txt
+
+  Nombre     : Octavio Novelo
+  Enfoque    : Ciberseguridad (reconocimiento y auditoría)
+  También    : Electrónica, sistemas embebidos y desarrollo
+  Aprendiendo: JavaScript + seguridad ofensiva
+  Misión     : Automatizar lo repetitivo y entender lo complejo
+  Estado     : Construyendo HERA · CanSat 2027 · Robert 2027
+
+octavio@kali:~$ _
+```
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 🚀 Proyectos
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OctavioNovelo&show_icons=true&locale=es" alt="Estadísticas de OctavioNovelo" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OctavioNovelo&layout=compact&locale=es" alt="Lenguajes más usados" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ HERA</h3>
+      <b>Herramientas Ejecutables de Reconocimiento y Auditoría</b><br/><br/>
+      Automatización de la fase de reconocimiento y auditoría de seguridad.<br/><br/>
+      <a href="https://github.com/OctavioNovelo/Herramientas-Ejecutables-de-Reconocimineto-y-Auditoria"><img src="https://img.shields.io/badge/Ver_repositorio-00ff9c?style=for-the-badge&logo=github&logoColor=0d1117" alt="HERA"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛰️ CanSat 2027</h3>
+      <b>Hardware + telemetría</b><br/><br/>
+      Un satélite del tamaño de una lata, programado y construido desde cero.<br/><br/>
+      <img src="https://img.shields.io/badge/Estado-En_desarrollo-00b3ff?style=for-the-badge" alt="estado"/>
+      <img src="https://img.shields.io/badge/Busco-Colaboradores-00ff9c?style=for-the-badge&labelColor=0d1117" alt="colabs"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Robert 2027</h3>
+      <b>Robótica / competencia</b><br/><br/>
+      Proyecto en desarrollo para 2027.<br/><br/>
+      <img src="https://img.shields.io/badge/Estado-En_desarrollo-00b3ff?style=for-the-badge" alt="estado"/>
+      <img src="https://img.shields.io/badge/Busco-Colaboradores-00ff9c?style=for-the-badge&labelColor=0d1117" alt="colabs"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖱️ UMouse</h3>
+      <b>Proyecto personal</b><br/><br/>
+      En desarrollo, y me vendría bien una mano.<br/><br/>
+      <img src="https://img.shields.io/badge/Busco-Ayuda-ff4d6d?style=for-the-badge&labelColor=0d1117" alt="ayuda"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=OctavioNovelo&locale=es" alt="Racha de contribuciones" />
-</p>
+<div align="center">
+
+[![Todos mis repos](https://img.shields.io/badge/📂_Ver_todos_mis_repositorios-0d1117?style=for-the-badge&labelColor=00ff9c&color=0d1117)](https://github.com/OctavioNovelo?tab=repositories)
+
+</div>
+
+---
+
+## 🧰 Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=arduino,bash,py,cpp,cs,js,html,css,linux,git,docker,unity,blender&theme=dark&perline=13" alt="skills" />
+
+</div>
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=OctavioNovelo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00b3ff&text_color=c9d1d9&ring_color=00ff9c&locale=es" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioNovelo&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&locale=es" alt="top langs" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=OctavioNovelo&hide_border=true&background=0d1117&stroke=00ff9c33&ring=00ff9c&fire=00b3ff&currStreakNum=00ff9c&sideNums=c9d1d9&currStreakLabel=00b3ff&sideLabels=c9d1d9&dates=8b949e&locale=es" alt="streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OctavioNovelo&bg_color=0d1117&color=00ff9c&line=00b3ff&point=ffffff&area=true&area_color=00ff9c&hide_border=true&title_color=00ff9c" alt="activity graph" width="95%" />
+
+</div>
+
+---
+
+## 🤝 Hablemos
+
+Si lo tuyo es **ciberseguridad, electrónica o CanSat/Robert 2027**, hablemos. Pregúntame sobre **ciberseguridad**.
+
+<div align="center">
+
+[![Correo](https://img.shields.io/badge/Proton_Mail-octavionovelo22@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:octavionovelo22@proton.me)
+[![GitHub](https://img.shields.io/badge/GitHub-OctavioNovelo-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c)](https://github.com/OctavioNovelo)
+
+</div>
+
+> ⚖️ Todo lo que hago en seguridad es con fines **educativos y de auditoría autorizada**. Hackea con ética.
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b3ff,50:00ff9c,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
+</div>
