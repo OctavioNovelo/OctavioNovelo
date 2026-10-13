@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:00b3ff&height=260&section=header&text=OCTAVIO%20NOVELO&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Ciberseguridad%20%E2%80%A2%20Hardware%20%E2%80%A2%20Herramientas%20ofensivas&descAlignY=62&descSize=18&stroke=00ff9c&strokeWidth=1" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:00b3ff&height=260&section=header&text=OCTAVIO%20NOVELO&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Ciberseguridad%20%E2%80%A2%20Hardware%20%E2%80%A2%&descAlignY=62&descSize=18&stroke=00ff9c&strokeWidth=1" width="100%" alt="header" />
 
 <a href="https://github.com/OctavioNovelo">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00FF9C&center=true&vCenter=true&width=760&height=50&lines=%3E+whoami+%E2%86%92+Octavio+Novelo;%3E+Rompo+cosas+para+aprender+a+protegerlas+%F0%9F%94%90;%3E+Automatizo+el+reconocimiento+y+la+auditor%C3%ADa;%3E+Programo+hardware+que+vuela+%F0%9F%9B%B0%EF%B8%8F;%3E+Construyendo+HERA+%7C+CanSat+2027+%7C+Robert+2027" alt="Typing SVG" />
