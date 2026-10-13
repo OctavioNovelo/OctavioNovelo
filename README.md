@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:00b3ff&height=260&section=header&text=OCTAVIO%20NOVELO&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Ciberseguridad%20%E2%80%A2%20Hardware%20%E2%80%A2%Software&descAlignY=62&descSize=18&stroke=00ff9c&strokeWidth=1" width="100%" alt="header" />
+<img src="./assets/header.svg" width="100%" alt="Octavio Novelo - Ciberseguridad, Hardware, Software" />
 
 <a href="https://github.com/OctavioNovelo">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00FF9C&center=true&vCenter=true&width=760&height=50&lines=%3E+whoami+%E2%86%92+Octavio+Novelo;%3E+Rompo+cosas+para+aprender+a+protegerlas+%F0%9F%94%90;%3E+Automatizo+el+reconocimiento+y+la+auditor%C3%ADa;%3E+Programo+hardware+que+vuela+%F0%9F%9B%B0%EF%B8%8F;%3E+Construyendo+HERA+%7C+CanSat+2027+%7C+Robert+2027" alt="Typing SVG" />
@@ -13,7 +13,6 @@
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00b3ff)
 ![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=for-the-badge&logo=arduino&logoColor=00ff9c)
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00ff9c)
-
 
 </div>
 
@@ -66,6 +65,8 @@ octavio@192.168.4.1:~$ _
       <h3>🖱️ UMouse</h3>
       <b>Robot Raton</b><br/><br/>
       En desarrollo.<br/><br/>
+      <img src="https://img.shields.io/badge/Estado-En_desarrollo-00b3ff?style=for-the-badge" alt="estado"/>
+      <img src="https://img.shields.io/badge/Tipo-Robótica-00ff9c?style=for-the-badge&labelColor=0d1117" alt="tipo"/>
     </td>
   </tr>
 </table>
@@ -117,5 +118,5 @@ octavio@192.168.4.1:~$ _
 > ⚖️ Todo lo que hago en seguridad es con fines **educativos y de auditoría autorizada**. Hackea con ética.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b3ff,50:00ff9c,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
+<img src="./assets/footer.svg" width="100%" alt="Señal estable" />
 </div>
