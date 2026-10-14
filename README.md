@@ -87,10 +87,44 @@ octavio@192.168.4.1:~$ _
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arduino,bash,py,cpp,cs,js,html,css,linux,git,docker,unity,blender&theme=dark&perline=13">
-  <img src="https://skillicons.dev/icons?i=arduino,bash,py,cpp,cs,js,html,css,linux,git,docker,unity,blender&theme=light&perline=13" alt="Herramientas y lenguajes" />
-</picture>
+<table>
+  <tr>
+    <td><b>Lenguajes</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,js,cpp,cs,bash,html,css&perline=10&theme=dark">
+        <img src="https://skillicons.dev/icons?i=py,js,cpp,cs,bash,html,css&perline=10&theme=light" alt="Lenguajes" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Hardware y embebidos</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arduino,platformio&perline=10&theme=dark">
+        <img src="https://skillicons.dev/icons?i=arduino,platformio&perline=10&theme=light" alt="Hardware y embebidos" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Motores y 3D</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=unity,blender&perline=10&theme=dark">
+        <img src="https://skillicons.dev/icons?i=unity,blender&perline=10&theme=light" alt="Motores y 3D" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Sistema y control de versiones</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,git,docker&perline=10&theme=dark">
+        <img src="https://skillicons.dev/icons?i=linux,git,docker&perline=10&theme=light" alt="Sistema y control de versiones" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 </div>
 
