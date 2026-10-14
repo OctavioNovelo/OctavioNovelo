@@ -1,71 +1,125 @@
+<div align="center">
+
 <img src="./assets/header.svg" width="100%" alt="Octavio Novelo - Ciberseguridad, Electrónica, Software" />
 
-## Sobre mí
+<a href="https://github.com/OctavioNovelo">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=E07B2A&center=true&vCenter=true&width=760&height=45&lines=Ciberseguridad+y+automatizaci%C3%B3n+de+auditor%C3%ADas;Hardware+y+sistemas+embebidos;Construyendo+HERA%2C+CanSat+2027+y+Robert+2027;Aprendiendo+JavaScript+y+seguridad+ofensiva" alt="Typing SVG" />
+</a>
 
-Me interesa la ciberseguridad y construir cosas que funcionen en el mundo real, tanto en software como en hardware. Ahora mismo desarrollo **HERA**, un conjunto de herramientas para automatizar el reconocimiento y la auditoría de seguridad, y me preparo para competir en **CanSat 2027** y **Robert 2027**.
+<br/>
 
-Estoy aprendiendo **JavaScript** y profundizando en seguridad ofensiva. Si quieres platicar de ciberseguridad, electrónica o robótica, escríbeme.
+![Ciberseguridad](https://img.shields.io/badge/Ciberseguridad-bc4c00?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-2d333b?style=for-the-badge&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2d333b?style=for-the-badge&logo=python&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-2d333b?style=for-the-badge&logo=arduino&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-2d333b?style=for-the-badge&logo=gnubash&logoColor=white)
 
-## Proyectos
+</div>
+
+---
+
+## 🖥️ `~/OctavioNovelo` — Sobre mí
+
+Me interesa la ciberseguridad y construir cosas que funcionen en el mundo real, tanto en software como en hardware. Si quieres platicar de seguridad, electrónica o robótica, escríbeme.
+
+```bash
+octavio@192.168.4.1:~$ cat perfil.txt
+
+  Nombre     : Octavio Novelo
+  Enfoque    : Ciberseguridad
+  También    : Electrónica, sistemas embebidos y desarrollo
+  Aprendiendo: JavaScript + seguridad ofensiva
+  Misión     : Automatizar lo repetitivo y entender lo complejo
+  Estado     : Construyendo HERA · CanSat 2027 · Robert 2027 · Robot Raton
+
+octavio@192.168.4.1:~$ _
+```
+
+---
+
+## 🚀 Proyectos
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>HERA</h3>
-      <sub><b>Herramientas Ejecutables de Reconocimiento y Auditoría</b></sub><br/><br/>
+      <h3>🛡️ HERA</h3>
+      <b>Herramientas Ejecutables de Reconocimiento y Auditoría</b><br/><br/>
       Automatiza la fase de reconocimiento y auditoría de seguridad.<br/><br/>
-      <a href="https://github.com/OctavioNovelo/Herramientas-Ejecutables-de-Reconocimineto-y-Auditoria">Ver repositorio →</a>
+      <a href="https://github.com/OctavioNovelo/Herramientas-Ejecutables-de-Reconocimineto-y-Auditoria"><img src="https://img.shields.io/badge/Ver_repositorio-bc4c00?style=for-the-badge&logo=github&logoColor=white" alt="HERA"/></a>
       <!-- Agrega aquí una captura o GIF de HERA funcionando -->
     </td>
     <td width="50%" valign="top">
-      <h3>CanSat 2027</h3>
-      <sub><b>Hardware y telemetría</b></sub><br/><br/>
+      <h3>🛰️ CanSat 2027</h3>
+      <b>Hardware + telemetría</b><br/><br/>
       Un satélite del tamaño de una lata, programado y construido desde cero.<br/><br/>
-      <img src="https://img.shields.io/badge/estado-en_desarrollo-bc4c00?style=flat-square" alt="en desarrollo"/>
-      <img src="https://img.shields.io/badge/busco-colaboradores-57606a?style=flat-square" alt="busco colaboradores"/>
+      <img src="https://img.shields.io/badge/Estado-En_desarrollo-bc4c00?style=for-the-badge" alt="estado"/>
+      <img src="https://img.shields.io/badge/Busco-Colaboradores-2d333b?style=for-the-badge" alt="colabs"/>
       <!-- Agrega aquí una foto de tu CanSat -->
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Robert 2027</h3>
-      <sub><b>Robótica y competencia</b></sub><br/><br/>
+      <h3>🤖 Robert 2027</h3>
+      <b>Robótica / competencia</b><br/><br/>
       Proyecto en desarrollo para 2027.<br/><br/>
-      <img src="https://img.shields.io/badge/estado-en_desarrollo-bc4c00?style=flat-square" alt="en desarrollo"/>
-      <img src="https://img.shields.io/badge/busco-colaboradores-57606a?style=flat-square" alt="busco colaboradores"/>
+      <img src="https://img.shields.io/badge/Estado-En_desarrollo-bc4c00?style=for-the-badge" alt="estado"/>
+      <img src="https://img.shields.io/badge/Busco-Colaboradores-2d333b?style=for-the-badge" alt="colabs"/>
     </td>
     <td width="50%" valign="top">
-      <h3>UMouse</h3>
-      <sub><b>Robot Raton</b></sub><br/><br/>
+      <h3>🖱️ UMouse</h3>
+      <b>Robot Raton</b><br/><br/>
       Robot en desarrollo.<br/><br/>
-      <img src="https://img.shields.io/badge/estado-en_desarrollo-bc4c00?style=flat-square" alt="en desarrollo"/>
-      <img src="https://img.shields.io/badge/tipo-robótica-57606a?style=flat-square" alt="robótica"/>
+      <img src="https://img.shields.io/badge/Estado-En_desarrollo-bc4c00?style=for-the-badge" alt="estado"/>
+      <img src="https://img.shields.io/badge/Tipo-Robótica-2d333b?style=for-the-badge" alt="tipo"/>
     </td>
   </tr>
 </table>
 
-Todos mis repositorios: [github.com/OctavioNovelo](https://github.com/OctavioNovelo?tab=repositories)
+<div align="center">
 
-## Herramientas
+[![Todos mis repos](https://img.shields.io/badge/📂_Ver_todos_mis_repositorios-2d333b?style=for-the-badge&labelColor=bc4c00)](https://github.com/OctavioNovelo?tab=repositories)
+
+</div>
+
+---
+
+## 🧰 Arsenal
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arduino,bash,py,cpp,cs,js,html,css,linux,git,docker,unity,blender&theme=dark&perline=13">
   <img src="https://skillicons.dev/icons?i=arduino,bash,py,cpp,cs,js,html,css,linux,git,docker,unity,blender&theme=light&perline=13" alt="Herramientas y lenguajes" />
 </picture>
 
-## GitHub
+</div>
+
+---
+
+## 📊 Stats
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=OctavioNovelo&show_icons=true&hide_border=true&theme=transparent&title_color=f0883e&icon_color=f0883e&text_color=c9d1d9&locale=es">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=OctavioNovelo&show_icons=true&hide_border=true&theme=transparent&title_color=bc4c00&icon_color=bc4c00&text_color=1f2328&locale=es" alt="Estadísticas de GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=OctavioNovelo&show_icons=true&hide_border=true&theme=transparent&title_color=bc4c00&icon_color=bc4c00&text_color=1f2328&locale=es" alt="Estadísticas de GitHub" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioNovelo&layout=compact&hide_border=true&theme=transparent&title_color=f0883e&text_color=c9d1d9&locale=es">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioNovelo&layout=compact&hide_border=true&theme=transparent&title_color=bc4c00&text_color=1f2328&locale=es" alt="Lenguajes más usados" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioNovelo&layout=compact&hide_border=true&theme=transparent&title_color=bc4c00&text_color=1f2328&locale=es" alt="Lenguajes más usados" />
 </picture>
 
-## Contacto
+</div>
 
-📧 [octavionovelo22@proton.me](mailto:octavionovelo22@proton.me)
+---
+
+## 🤝 Contacto
+
+<div align="center">
+
+[![Correo](https://img.shields.io/badge/Proton_Mail-octavionovelo22@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:octavionovelo22@proton.me)
+[![GitHub](https://img.shields.io/badge/GitHub-OctavioNovelo-2d333b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OctavioNovelo)
 
 <sub>Todo lo que hago en seguridad es con fines educativos y de auditoría autorizada.</sub>
+
+</div>
