@@ -91,37 +91,35 @@ octavio@192.168.4.1:~$ _
   <tr>
     <td><b>Lenguajes</b></td>
     <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,js,cpp,cs,bash,html,css&perline=10&theme=dark">
-        <img src="https://skillicons.dev/icons?i=py,js,cpp,cs,bash,html,css&perline=10&theme=light" alt="Lenguajes" />
-      </picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py&theme=dark"><img src="https://skillicons.dev/icons?i=py&theme=light" width="48" height="48" alt="Python" title="Python" /></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js&theme=dark"><img src="https://skillicons.dev/icons?i=js&theme=light" width="48" height="48" alt="JavaScript" title="JavaScript" /></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp&theme=dark"><img src="https://skillicons.dev/icons?i=cpp&theme=light" width="48" height="48" alt="C++" title="C++" /></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs&theme=dark"><img src="https://skillicons.dev/icons?i=cs&theme=light" width="48" height="48" alt="C#" title="C#" /></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash&theme=dark"><img src="https://skillicons.dev/icons?i=bash&theme=light" width="48" height="48" alt="Bash" title="Bash" /></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html&theme=dark"><img src="https://skillicons.dev/icons?i=html&theme=light" width="48" height="48" alt="HTML" title="HTML" /></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=css&theme=dark"><img src="https://skillicons.dev/icons?i=css&theme=light" width="48" height="48" alt="CSS" title="CSS" /></picture>
     </td>
   </tr>
   <tr>
     <td><b>Hardware y embebidos</b></td>
     <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arduino,platformio&perline=10&theme=dark">
-        <img src="https://skillicons.dev/icons?i=arduino,platformio&perline=10&theme=light" alt="Hardware y embebidos" />
-      </picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arduino&theme=dark"><img src="https://skillicons.dev/icons?i=arduino&theme=light" width="48" height="48" alt="Arduino" title="Arduino" /></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=platformio&theme=dark"><img src="https://skillicons.dev/icons?i=platformio&theme=light" width="48" height="48" alt="PlatformIO" title="PlatformIO" /></picture>
     </td>
   </tr>
   <tr>
     <td><b>Motores y 3D</b></td>
     <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=unity,blender&perline=10&theme=dark">
-        <img src="https://skillicons.dev/icons?i=unity,blender&perline=10&theme=light" alt="Motores y 3D" />
-      </picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=unity&theme=dark"><img src="https://skillicons.dev/icons?i=unity&theme=light" width="48" height="48" alt="Unity" title="Unity" /></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=blender&theme=dark"><img src="https://skillicons.dev/icons?i=blender&theme=light" width="48" height="48" alt="Blender" title="Blender" /></picture>
     </td>
   </tr>
   <tr>
     <td><b>Sistema y control de versiones</b></td>
     <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,git,docker&perline=10&theme=dark">
-        <img src="https://skillicons.dev/icons?i=linux,git,docker&perline=10&theme=light" alt="Sistema y control de versiones" />
-      </picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux&theme=dark"><img src="https://skillicons.dev/icons?i=linux&theme=light" width="48" height="48" alt="Linux" title="Linux" /></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark"><img src="https://skillicons.dev/icons?i=git&theme=light" width="48" height="48" alt="Git" title="Git" /></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&theme=dark"><img src="https://skillicons.dev/icons?i=docker&theme=light" width="48" height="48" alt="Docker" title="Docker" /></picture>
     </td>
   </tr>
 </table>
